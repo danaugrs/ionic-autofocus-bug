@@ -1,0 +1,7 @@
+{
+  "name": "ionic-autofocus-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
